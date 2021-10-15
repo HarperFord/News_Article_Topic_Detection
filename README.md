@@ -3,12 +3,11 @@ Exemplar Representation and Time-Scaled Similarities.</h1>
 
 Install prerequisites
 
-<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>
-  pip install matplotlib
-  pip install numpy
-  pip install pandas
-  pip install spacy-universal-sentence-encoder
-  pip install https://github.com/MartinoMensio/spacy-universal-sentence-encoder/releases/download/v0.4.3/en_use_md-0.4.3.tar.gz#en_use_md-0.4.3
+<div class="snippet-clipboard-content position-relative overflow-auto"><pre><code>pip install matplotlib
+pip install numpy
+pip install pandas
+pip install spacy-universal-sentence-encoder
+pip install https://github.com/MartinoMensio/spacy-universal-sentence-encoder/releases/download/v0.4.3/en_use_md-0.4.3.tar.gz#en_use_md-0.4.3
 </code></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install matplotlib
     pip install numpy
