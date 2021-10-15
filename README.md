@@ -38,6 +38,6 @@ Opening Juypter Notebook through your Terminal or Command Prompt
     </clipboard-copy>
   </div></div>
   
-Through Juypter Notebook find and open experiments.ipynb
+Through Juypter Notebook find and open exemplar.ipynb
 
 For a detailed breakdown of results please reference report.pdf
