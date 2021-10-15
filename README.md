@@ -3,10 +3,10 @@ Exemplar Representation and Time-Scaled Similarities.</h1>
 
 Topic detection is the process of grouping large pieces of information into clusters of relating topics. This process
 is important to a wide range of fields such as disaster warning systems; company branding; customer interaction;
-stock market, traffic, and weather predictions[4]. This paper focuses on topic detection techniques for text streams
+stock market, traffic, and weather predictions. This repo focuses on topic detection techniques for text streams
 specifically. A text stream is usually a form of short-text post, such as those found on social media platforms like
 Twitter and Facebook.
-In this paper we, outline some current literature regarding topic detection and text similarity calculations; explain
+In the provided report we, outline some current literature regarding topic detection and text similarity calculations; explain
 our ideas for detecting topics in a selection of online news feed titles from The Atlantic (2016) and demonstrate
 the improvements to clustering when considering time as a factor of text similarities.
 
@@ -38,6 +38,6 @@ Opening Juypter Notebook through your Terminal or Command Prompt
     </clipboard-copy>
   </div></div>
   
-Through Juypter Notebook find and open exemplar.ipynb
+Through Juypter Notebook find and open experiments.ipynb
 
-For a detailed breakdown of results please reference final_report.pdf
+For a detailed breakdown of results please reference report.pdf
