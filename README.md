@@ -40,4 +40,4 @@ Opening Juypter Notebook through your Terminal or Command Prompt
   
 Through Juypter Notebook find and open exemplar.ipynb
 
-For a detailed breakdown of results please reference report.pdf
+For a breakdown of results please reference report.pdf
